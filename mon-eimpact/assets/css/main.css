@@ -1,0 +1,21 @@
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* à modifier */
+:root {
+    --GreenColor: #00d084;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.logo {
+    max-width: 25%;
+    height: auto;
+}

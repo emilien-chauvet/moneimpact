@@ -1,0 +1,17 @@
+/*
+Theme Name: moneimpact
+Theme URI: https://mon-eimpact.online/
+Author: Emilien CHAUVET, Martin NGUYEN et Jérémy Hayotte
+Author URI: https://mon-eimpact.online/
+Description: Notre thème pour notre site Mon e-impact 
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
